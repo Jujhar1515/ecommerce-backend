@@ -1,0 +1,72 @@
+[
+  {
+    "username": "jujhar",
+    "items": [
+      {
+        "id": 2,
+        "name": "Blue Jeans",
+        "price": 40,
+        "image": "https://via.placeholder.com/300x200?text=Jeans",
+        "category": "clothes"
+      },
+      {
+        "id": 3,
+        "name": "Running Shoes",
+        "price": 60,
+        "image": "https://via.placeholder.com/300x200?text=Shoes",
+        "category": "shoes"
+      }
+    ],
+    "total": 100,
+    "date": "2025-09-10T16:52:40.740Z"
+  },
+  {
+    "username": "jujhar",
+    "items": [
+      {
+        "id": 3,
+        "name": "Running Shoes",
+        "price": 60,
+        "image": "https://via.placeholder.com/300x200?text=Shoes",
+        "category": "shoes"
+      },
+      {
+        "id": 4,
+        "name": "Leather Jacket",
+        "price": 120,
+        "image": "https://via.placeholder.com/300x200?text=Jacket",
+        "category": "clothes"
+      }
+    ],
+    "total": 180,
+    "date": "2025-09-10T16:52:55.579Z"
+  },
+  {
+    "username": "jujhar",
+    "items": [
+      {
+        "id": 3,
+        "name": "Running Shoes",
+        "price": 60,
+        "image": "https://via.placeholder.com/300x200?text=Shoes",
+        "category": "shoes"
+      },
+      {
+        "id": 1,
+        "name": "Classic Shirt",
+        "price": 25,
+        "image": "https://via.placeholder.com/300x200?text=Shirt",
+        "category": "clothes"
+      },
+      {
+        "id": 3,
+        "name": "Running Shoes",
+        "price": 60,
+        "image": "https://via.placeholder.com/300x200?text=Shoes",
+        "category": "shoes"
+      }
+    ],
+    "total": 145,
+    "date": "2025-09-10T17:07:36.903Z"
+  }
+]
